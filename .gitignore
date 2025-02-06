@@ -1,0 +1,5 @@
+*__pycache__*
+build
+build/*
+dist
+rawdog_django_orm.egg-info

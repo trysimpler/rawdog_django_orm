@@ -11,7 +11,7 @@ with open("requirements.txt", "r") as fp:
 
 setuptools.setup(
     name="rawdog_django_orm",
-    version="0.0.3",
+    version="0.0.5",
     author="George3d6",
     description="Utilities for using the django orm outside of django",
     long_description=long_description,
